@@ -1,2 +1,2 @@
-# CynalitIQ
-CynalitIQ is a web application security scanner.
+# About CynalitIQ
+__Cy__ ber A __nalit__ cs __IQ__ 
