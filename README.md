@@ -1,2 +1,2 @@
 # About CynalitIQ
-__Cy__ ber A __nalit__ cs __IQ__ 
+__Cy__ber A__nalit__cs __IQ__ 
